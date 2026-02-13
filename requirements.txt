@@ -9,3 +9,4 @@ wikipedia
 arviz
 langsmith
 langchain-groq
+tavily
