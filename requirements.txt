@@ -10,3 +10,4 @@ arviz
 langsmith
 langchain-groq
 tavily
+langgraph-cli[inmem]
